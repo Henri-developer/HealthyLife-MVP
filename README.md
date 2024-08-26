@@ -11,5 +11,8 @@
  - [x] Codigo orientado a objetos
  - [x] Integração com banco de dados
  - [x] JPA
- - [x] Hibernate 
+ - [x] Hibernate
+
+ Para mais repositórios como este [clique aqui](https://github.com/Henri-developer/java-console)
+ LinkeDin [clique aqui](https://www.linkedin.com/in/henrique-oliveira-337a93310/)
  
